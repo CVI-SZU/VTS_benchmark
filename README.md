@@ -3,3 +3,6 @@ We present the first comprehensive benchmark for variable-length time series cla
 
 ![image](https://github.com/CVI-SZU/VTS_benchmark/blob/main/assets/pipeline.jpg)
 ![image](https://github.com/CVI-SZU/VTS_benchmark/blob/main/assets/sp.jpg)
+
+# Code
+The code can be found in [\[Code\]](https://github.com/wsl540/VTS_benchmark/tree/main)
